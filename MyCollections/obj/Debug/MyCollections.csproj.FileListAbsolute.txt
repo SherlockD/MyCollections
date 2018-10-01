@@ -1,0 +1,6 @@
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.csprojAssemblyReference.cache
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+F:\RiderProjects\MyCollections\MyCollections\bin\Debug\MyCollections.exe
+F:\RiderProjects\MyCollections\MyCollections\bin\Debug\MyCollections.pdb
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.exe
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.pdb
